@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.2;
+      }
+    </style>
+  </defs>
+  <image id="search.svg" class="cls-1" width="18" height="18" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAABSklEQVQ4jZWUbUvDMBDH/7buQQVJKSgM5CQDv/938Z0vysLEF4ORhYFiYSgX7krIGuv+UJqld7/cU3aFTJaoBfAA4Db7dACw65w75j6sAWSJ2JFGALkYuOmcO52BBPICoJZ9NtrLmzUH0CZ+nwDeUti1vCmBMGCbn2iJPgCsJWJ+Vmw3RCQ1eVZI59ymlJMlqiVyTf+1c67nRSWF1XS2JQhLonxPth51USX0fZ5OAXaUGrFuUpBqEvKXbTVud7lS0PwC78VYRAdZt5ZoEiZdVjv1jaBdYreWFpcg3Jgn+alDG1X7EPrGGDZYApgBuG+M+eb9kUhsMri+c87rd70i+aBBWqzdWRRqyHcuRhXpPoSfxhgvqd6J0UwA/KR3kO30QNMY0/sQvsb+Rvhknthh2ERc2Di02bWKkZ2B/qscVuzQlDgdTovTA3D6BRvSbtgGa48AAAAAAElFTkSuQmCC"/>
+</svg>
